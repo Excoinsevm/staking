@@ -1,8 +1,8 @@
 var walletAddress = null, 
     stakingContract = null,
     contract = null,
-    stakingAddress = "0x85d7f187e5f70c9fc8eb12d385c5a263287bbcfc",
-    contractAddress = "0x20c3fa331a385b63ee39137e99d0cf2db142fce1",
+    stakingAddress = "0xa88C60745b86F5d2dEcDBB447519aE08B55170aa",
+    contractAddress = "0xdcE5726e3Bc8E1F574416978279bb0AE62AB3c15",
     isMetaMask = true,
     web3 = null,
     web3Modal = null, 
@@ -458,10 +458,10 @@ var walletAddress = null,
                      //   2001: "https://rpc-devnet-cardano-evm.c1.milkomeda.com",
                      // 56: "https://bsc-dataseed.binance.org/",
                      // 97: "https://data-seed-prebsc-1-s1.binance.org:8545/"
-                        1: "https://mainnet.infura.io/v3/"
+                        7171: "https://connect.bit-rock.io/"
 
                       },
-                      network: "ETH"
+                      network: "Bitrock"
                     }
                 },
                 fortmatic: {
